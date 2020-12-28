@@ -1,0 +1,1 @@
+./tools/dist_train.sh configs/solov2/solov2_r50_fpn_8bs_3x_bdd100k.py  2
